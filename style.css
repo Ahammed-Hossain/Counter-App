@@ -1,59 +1,59 @@
 * {
-        margin: 0;
-        padding: 0;
-      }
+    margin: 0;
+    padding: 0;
+}
 
-      body {
-        background-color: rgb(35, 73, 78);
-      }
+body {
+    background-color: rgb(35, 73, 78);
+}
 
-      .header {
-        display: flex;
-        justify-content: center;
-        margin-top: 20px;
-      }
+.header {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
 
-      h1 {
-        font-size: 50px;
-        color: white;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      }
+h1 {
+    font-size: 50px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
-      .main-Container {
-        display: flex;
-        justify-content: center;
-        margin-top: 100px;
-        align-items: center;
-        gap: 150px;
-      }
+.main-Container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    align-items: center;
+    gap: 150px;
+}
 
-      .Count {
-        padding: 20px 50px 20px 50px;
-        border-radius: 15px;
-        border: none;
-        background-color: rgb(184, 109, 65);
-        font-size: 25px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        cursor: pointer;
-      }
+.Count {
+    padding: 20px 50px 20px 50px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(184, 109, 65);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
 
-      p {
-        font-size: 30px;
-        color: white;
-      }
+p {
+    font-size: 30px;
+    color: white;
+}
 
-      .resetBtn {
-        display: flex;
-        justify-content: center;
-        margin-top: 100px;
-      }
+.resetBtn {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
 
-      .reset {
-        padding: 20px 50px 20px 50px;
-        border-radius: 15px;
-        border: none;
-        background-color: rgb(22, 26, 63);
-        font-size: 25px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        cursor: pointer;
-      }
+.reset {
+    padding: 20px 50px 20px 50px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(22, 26, 63);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}

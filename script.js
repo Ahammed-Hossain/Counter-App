@@ -1,4 +1,3 @@
-
 let countValue = 0;
 let value = document.querySelector(".text");
 
@@ -21,4 +20,3 @@ Reset.addEventListener('click', () => {
     countValue = 0;
     value.innerText = countValue;
 });
-
