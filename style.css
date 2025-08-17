@@ -57,3 +57,32 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     cursor: pointer;
 }
+
+@media (max-width: 650px) {
+ 
+ .main-Container {
+   gap: 50px;
+   margin-top: 50px;
+  }
+}
+
+@media (max-width: 450px) {
+  .main-Container {
+   gap: 50px;
+  }
+  .Count {
+    padding: 10px 25px 10px 25px;
+    font-size: 20px;
+  }
+  .reset {
+    padding: 10px 25px 10px 25px;
+    font-size: 20px;
+  }
+  .resetBtn {
+    margin-top: 50px;
+}
+  h1 {
+    font-size: 40px;
+  }
+  
+}
